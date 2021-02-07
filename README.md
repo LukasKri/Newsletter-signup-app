@@ -7,6 +7,7 @@
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Knowledge](#knowledge)
+* [Screenshot](#screenshot)
 * [Status](#status)
 * [Contact](#contact)
 
@@ -29,6 +30,9 @@ All you need is just a web browser and internet access.
 * Basic routing and req. & res. methods in Express.js
 * HTTP requests in Node.js
 * JSON parsing
+
+## Screenshot
+![screenshot](https://user-images.githubusercontent.com/23439837/107152855-facf2600-6972-11eb-8b15-32545937024f.jpg)
 
 ## Status
 Project is: _finished_.
