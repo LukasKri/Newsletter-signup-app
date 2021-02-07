@@ -21,7 +21,7 @@ This web site communicates with Mailchimp API and adds new users to the list of 
 * Express.js v6.14.10
 
 ## Setup
-All you need is just a web browser and an internet connection.
+All you need is just a web browser and internet access.
 
 ## Gained knowledge
 * Node.js and Express.js setup
