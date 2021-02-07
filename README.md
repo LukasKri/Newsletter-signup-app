@@ -16,6 +16,7 @@ This web site communicates with Mailchimp API and adds new users to the list of 
 ## Technologies
 * HTML5
 * CSS3
+* JavaScript
 * Bootstrap v4.6
 * Node.js v15.7.0
 * Express.js v6.14.10
