@@ -1,6 +1,6 @@
-# About me
+# About
 
-> My first project using HTML and CSS.
+> A simple email subscription email form.
 
 ## Table of contents
 * [General info](#general-info)
@@ -8,34 +8,29 @@
 * [Setup](#setup)
 * [Knowledge](#knowledge)
 * [Status](#status)
-* [Inspiration](#inspiration)
 * [Contact](#contact)
 
 ## General info
-I've made a simple web page about my qualifications, achievements and skills.
+This web site communicates with Mailchimp API and adds new users to the list of subscribers. This is my first real project using an API. I've learned basics about API's endpoints, paths, parameters and authentication. I used Node.js environment and Express.js framework in this project.
 
 ## Technologies
 * HTML5
 * CSS3
+* Bootstrap v4.6
+* Node.js v15.7.0
+* Express.js v6.14.10
 
 ## Setup
-All you need is just a web browser and the internet connection.
+All you need is just a web browser and an internet connection.
 
 ## Gained knowledge
-* HTML structure and elements
-* Ordered and unordered lists
-* Basic knowledge of tables and forms
-
-* Basic CSS elements
-* Internal and external CSS
-* Position property
-* Hierarchy
+* Node.js and Express.js setup
+* Basic routing and req. & res. methods in Express.js
+* HTTP requests in Node.js
+* JSON parsing
 
 ## Status
 Project is: _finished_.
-
-## Inspiration
-Project inspired by Angela Yu.
 
 ## Contact
 Created by [@Lukas Krisikaitis](https://www.linkedin.com/in/lukas-krisikaitis-44597a1b0/) - feel free to contact me on LinkedIn!
