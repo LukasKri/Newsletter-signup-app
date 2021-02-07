@@ -6,7 +6,7 @@ A simple email subscription email form.
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Knowledge](#knowledge)
+* [Gained knowledge](#gained-knowledge)
 * [Screenshot](#screenshot)
 * [Status](#status)
 * [Contact](#contact)
