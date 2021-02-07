@@ -1,6 +1,6 @@
 # About
 
-> A simple email subscription email form.
+A simple email subscription email form.
 
 ## Table of contents
 * [General info](#general-info)
